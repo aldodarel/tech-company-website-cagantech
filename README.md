@@ -5,6 +5,8 @@ The UI is based on [Business Tech Company UI Kit](https://www.figma.com/communit
 
 Tech stack: Next.js + Tailwind CSS, with internationalization support.
 
+Live Website: https://tech-company-website-cagantech-a7igmw5z7e.edgeone.dev/en
+
 ## Features
 - Developed with Next.js TypeScript
 - Flexible and clean styling with Tailwind CSS
